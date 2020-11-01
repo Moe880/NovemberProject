@@ -1,3 +1,4 @@
 public class Flash {
-    //aaaa
-}
+    public static void main(String[] args) {
+        System.out.println("flash lighting");
+    }}
